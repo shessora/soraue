@@ -1,0 +1,10 @@
+{
+    MainAccount = "jhjik78",  -- Main account username
+    Configs = {
+        Prefix = ".",  ---REMEMBER THIS PREFIX
+        Mask = "ninja", 
+        Gun = "Rifle", 
+        Melee = "stop",
+        FPSCap = 0,
+        CameraOnMain = true,  -- having this true makes buying more effecient
+    },
